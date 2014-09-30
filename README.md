@@ -1,4 +1,5 @@
 # Symcc - Symbolic Math Compiler
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jcrist/symcc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/jcrist/symcc.svg?branch=master)](https://travis-ci.org/jcrist/symcc)
 
